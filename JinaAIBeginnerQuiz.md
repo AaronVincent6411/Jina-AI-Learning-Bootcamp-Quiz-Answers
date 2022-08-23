@@ -1,88 +1,71 @@
-1. What differentiates neural search from the traditional symbolic search?
+# Beginner Quiz Answers
 
-It takes less time to perform search
-It works by matching the keywords to find the search results.
-It provides contextual search results based on the semantics
 
-Ans:It provides contextual search results based on the sematics
+**1. What differentiates neural search from the traditional symbolic search?**
 
-2. What is the quickest way to experience the power of Jina?
+- [ ] It takes less time to perform search
+- [ ] It works by matching the keywords to find the search results.
+- [x] It provides contextual search results based on the semantics
 
-Developer Portal
-Reading the docs
-Coding a simple search solution
-Running tutorial Colab notebook
+**2. What is the quickest way to experience the power of Jina?**
 
-Ans:Running tutorial Colab notebook
+- [ ] Developer Portal
+- [ ] Reading the docs
+- [ ] Coding a simple search solution
+- [x] Running tutorial Colab notebook
 
-3. Which among the following correctly represents Jina?
+**3. Which among the following correctly represents Jina?**
 
-It's a neural search engine
-It's a neural search framework
-It's a deep learning framework
-It's a search service provider
+- [ ] It's a neural search engine
+- [x] It's a neural search framework
+- [ ] It's a deep learning framework
+- [ ] It's a search service provider
 
-Ans:It's a neural search framework
+**What is the fastest way to run Jina without worrying about the dependencies?**
 
-4.What is the fastest way to run Jina without worrying about the dependencies?
+- [ ] Via PIP Install
+- [ ] Via Docker
+- [ ] Via Conda
+- [x] All of them takes the same time
 
-Via PIP Install
-Via Docker
-Via Conda
-All of them takes the same time
+**5. What among the following are the basic building blocks of Jina?**
 
-Ans:All of them takes the same time
+- [ ] Document, DocumentArray, Flow
+- [ ] Flow, DocumentArray, Document Store
+- [x] Document, Executor, Flow
+- [ ] Document, DocumentArray, DocumentArrayMemMap
 
-5. What among the following are the basic building blocks of Jina?
+**6.Which of the following data types are supported by Jina to create a search solution?**
 
-Document, DocumentArray, Flow
-Flow, DocumentArray, Document Store
-Document, Executor, Flow
-Document, DocumentArray, DocumentArrayMemMap
+- [ ] Text
+- [ ] Image
+- [ ] Audio
+- [x] All of them
 
-Ans:Document, Executor, Flow
+**7. What is the most basic data type in DocArray?**
 
-6.Which of the following data types are supported by Jina to create a search solution?
+- [ ] Document
+- [ ] Integer
+- [ ] String
+- [x] Array
 
-Text
-Image
-Audio
-All of them
+**8. What kind of data can a Document contain?**
 
-Ans: All of them
+- [ ] Text data
+- [ ] Numpy Array
+- [x] Any kind of data
+- [ ] Images
 
-7. What is the most basic data type in DocArray?
+**9. DocumentArray is first class citizen of?**
 
-Document
-Integer
-String
-Array
+- [ ] Flow
+- [ ] Document
+- [x] Executor
+- [ ] All of them
 
-Ans: Array
+**10. An Executor performs a single task on?**
 
-8. What kind of data can a Document contain?
-
-Text data
-Numpy Array
-Any kind of data
-Images
-
-Ans: Any kind of data
-
-9. DocumentArray is first class citizen of?
-
-Flow
-Document
-Executor
-All of them
-
-Ans: Executor
-
-10. An Executor performs a single task on?
-
-Document
-Flow
-Graph
-Text
-
-Ans:Document
+- [x] Document
+- [ ] Flow
+- [ ] Graph
+- [ ] Text
