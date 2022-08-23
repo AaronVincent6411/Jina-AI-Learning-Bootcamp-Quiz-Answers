@@ -21,7 +21,7 @@
 - [ ] It's a deep learning framework
 - [ ] It's a search service provider
 
-**What is the fastest way to run Jina without worrying about the dependencies?**
+**4. What is the fastest way to run Jina without worrying about the dependencies?**
 
 - [ ] Via PIP Install
 - [ ] Via Docker
