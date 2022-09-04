@@ -16,3 +16,9 @@
 - Beginner Quiz https://learn.jina.ai/beginner-quiz/   
 - Intermediate Quiz https://learn.jina.ai/intermediate-quiz/
 - Advanced Quiz https://learn.jina.ai/advanced-quiz/
+
+### Youtube 
+
+- Beginner Quiz https://youtu.be/Qd_xhly8-Mw
+- Intermediate Quiz https://youtu.be/ykn8a8I8E-k
+- Advanced Quiz https://youtu.be/f90d8RTkg7A
